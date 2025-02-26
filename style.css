@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-weight: 550;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    user-select: none;
+}
+body{
+    background-color: black;
+}
+.navv{
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 50px;
+}
+.navbar-toggler-icon {
+    background-image: none; 
+    border: 1px solid white; 
+}
+
+.navbar-toggler-icon::before,
+.navbar-toggler-icon::after,
+.navbar-toggler-icon span {
+    background-color: white; 
+}
+
+.nav-color{
+    background-color: black;
+    color: white;
+}
+.nav-mar{
+    margin-left: 50px;
+}
+.nav-ri{
+    margin-right: 50px;
+}
+.nav-item:hover{
+    background-color: rgb(255, 189, 57);
+    border-radius: 15px;
+    color:black;
+}
+.color{
+    color:rgb(255, 189, 57); 
+}
+.btn{
+    border: 2px solid rgb(255, 189, 57);
+    border-radius: 30px;
+    background-color: rgb(255, 189, 57);
+    color: black;
+    text-transform: uppercase;
+}
+.btn:hover{
+    background-color:rgb(255, 189, 57); 
+    border-radius: 30px;
+}
+.img1{
+    height: 500px;
+    width: 200%;
+
+}
+.pp{
+    text-align: space-between;
+}
+.cap{
+    text-transform: uppercase;
+}
+.ii{
+    height: 150px;
+    width: 100%;
+}
+.bl{
+    background-color: black;
+    color:white;
+}
+.br{
+    border-radius: 20px;
+}
+.bt{
+    margin-left: 50px;
+}
+.r{
+    font-size: 35px ;
+}
+.b{
+    border:2px solid white;
+    border-radius: 15px;
+}
+.form{
+    border-radius: 15px;
+}
+.m{
+    height: 300px;
+    width: 100%;
+}
